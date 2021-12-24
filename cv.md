@@ -20,7 +20,9 @@ Hi, my name is Dmitriy. I gradueted Gomel State Technical university in 2009. My
 
 ## Languages:
 **Russian:** *native*
+
 **English:** *pre-intermediate*
+
 **Ukrainian:** *intermediate*
 
 ## Code Example
